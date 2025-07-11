@@ -1,9 +1,46 @@
-# AUTO-blogger
+# 🚀 AUTO-blogger - AI-Powered WordPress Automation Tool
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/AryanVBW/AUTO-blogger)
+[![GitHub stars](https://img.shields.io/github/stars/AryanVBW/AUTO-blogger?style=social)](https://github.com/AryanVBW/AUTO-blogger/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AryanVBW/AUTO-blogger?style=social)](https://github.com/AryanVBW/AUTO-blogger/network)
 
 **Copyright © 2025 AryanVBW**  
-**GitHub: [https://github.com/AryanVBW](https://github.com/AryanVBW)**
+**🌐 Website: [https://aryanvbw.github.io/AUTO-blogger/website/](https://aryanvbw.github.io/AUTO-blogger/website/)**  
+**📧 Contact: AryanVBW@gmail.com**
+
+> **Transform your WordPress content strategy with intelligent automation!** 
+> 
+> AUTO-blogger is a professional-grade WordPress automation tool that combines the power of AI content generation, Getty Images integration, and comprehensive SEO optimization to revolutionize your blogging workflow.
+
+## 🎯 What Makes AUTO-blogger Special?
+
+- **🤖 Dual AI Integration**: Harness both OpenAI GPT and Google Gemini for superior content quality
+- **📸 Professional Imagery**: Getty Images editorial collection with proper licensing
+- **🔍 SEO Mastery**: Advanced optimization with Yoast and AIOSEO plugin compatibility
+- **🔄 Zero-Maintenance Updates**: Self-updating system ensures you're always current
+- **🌐 Multi-Domain Management**: Handle multiple WordPress sites from one interface
+- **📊 Real-Time Monitoring**: Comprehensive progress tracking and detailed logging
 
 A comprehensive GUI application for automating WordPress blog posting with AI-powered content generation, SEO optimization, and automatic updates.
+
+## 📝 GitHub Repository Description
+
+**For GitHub About Section:**
+```
+🚀 AI-Powered WordPress Automation Tool | OpenAI & Gemini Integration | Getty Images | SEO Optimization | Auto-Updates | Multi-Domain Support | Professional Content Generation
+```
+
+**For Social Media & Sharing:**
+```
+Transform your WordPress content strategy with AUTO-blogger! 🤖 Dual AI integration (OpenAI + Gemini), Getty Images, advanced SEO optimization, and zero-maintenance auto-updates. Perfect for bloggers, content creators, and digital marketers. #WordPress #AI #ContentAutomation #SEO
+```
+
+**Key Topics/Tags for GitHub:**
+```
+wordpress, automation, ai, openai, gemini, getty-images, seo, blog, content-generation, python, gui, multi-domain, auto-update, wordpress-tool, content-management, blogging, artificial-intelligence, seo-optimization, wordpress-automation, content-creation
+```
 
 ## ✨ Key Features
 
