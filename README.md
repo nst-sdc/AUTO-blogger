@@ -25,23 +25,6 @@
 
 A comprehensive GUI application for automating WordPress blog posting with AI-powered content generation, SEO optimization, and automatic updates.
 
-## 📝 GitHub Repository Description
-
-**For GitHub About Section:**
-```
-🚀 AI-Powered WordPress Automation Tool | OpenAI & Gemini Integration | Getty Images | SEO Optimization | Auto-Updates | Multi-Domain Support | Professional Content Generation
-```
-
-**For Social Media & Sharing:**
-```
-Transform your WordPress content strategy with AUTO-blogger! 🤖 Dual AI integration (OpenAI + Gemini), Getty Images, advanced SEO optimization, and zero-maintenance auto-updates. Perfect for bloggers, content creators, and digital marketers. #WordPress #AI #ContentAutomation #SEO
-```
-
-**Key Topics/Tags for GitHub:**
-```
-wordpress, automation, ai, openai, gemini, getty-images, seo, blog, content-generation, python, gui, multi-domain, auto-update, wordpress-tool, content-management, blogging, artificial-intelligence, seo-optimization, wordpress-automation, content-creation
-```
-
 ## ✨ Key Features
 
 🤖 **AI-Powered Content Generation**
