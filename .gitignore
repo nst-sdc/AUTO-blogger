@@ -1,0 +1,177 @@
+# Logs and temporary files
+*.log
+logs/
+blog_automation.log
+
+# Configuration files with sensitive data
+blog_config.json
+configs/*_com/
+configs/*/default.json
+configs/*/personal.json
+!configs/example/
+
+# Login credentials and API keys
+*.env
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+api_keys.json
+credentials.json
+secrets.json
+auth.json
+login.json
+*_api_key.json
+*_credentials.json
+*_auth.json
+*_config.json
+*_secrets.json
+.netrc
+
+# Virtual environment
+auto_blogger_venv_*/
+venv/
+env/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Backup files
+backup_*/
+*.backup
+*.bak
+temp_fixes/
+
+# Posted links and session data
+posted_links.json
+session_data.json
+cookies.json
+
+# WordPress and site-specific data
+wp-config.php
+.htaccess
+wp-login.json
+wp-credentials.json
+wp_*.json
+wordpress_*.json
+site_credentials.json
+site_*.json
+
+# Browser automation data
+selenium_logs/
+webdriver_logs/
+chromedriver.log
+geckodriver.log
+*.cookies
+cookies.json
+*_cookies.json
+session_data/
+session_*.json
+.selenium/
+.webdriver/
+browser_profiles/
+user_data_dir/
+
+# Image uploads and media
+uploads/
+media/
+images/temp/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
