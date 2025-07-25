@@ -26,7 +26,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/AryanVBW/AUTO-blogger",
-    packages=find_packages(),
+    packages=find_packages(include=['auto_blogger', 'auto_blogger.*']),
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
@@ -46,12 +46,17 @@ setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "autoblog=gui_blogger:main",
+            "autoblog=auto_blogger.gui_blogger:main",
+            "auto-blogger=auto_blogger.gui_blogger:main",
         ],
     },
     include_package_data=True,
     package_data={
-        "": ["*.json", "*.md", "*.txt", "*.png", "*.ico"],
+        "auto_blogger": [
+            "*.json", "*.md", "*.txt", "*.png", "*.ico", "*.svg",
+            "configs/*.json", "configs/*.txt",
+            "website/**/*", "scripts/**/*", "docs/**/*"
+        ],
     },
     keywords="wordpress, blog, automation, ai, content, posting, seo",
     project_urls={

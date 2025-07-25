@@ -1,6 +1,7 @@
 # 🚀 AUTO-blogger - AI-Powered WordPress Automation Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://badge.fury.io/py/auto-blogger.svg)](https://badge.fury.io/py/auto-blogger)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/AryanVBW/AUTO-blogger)
 [![GitHub stars](https://img.shields.io/github/stars/AryanVBW/AUTO-blogger?style=social)](https://github.com/AryanVBW/AUTO-blogger/stargazers)
@@ -13,6 +14,18 @@
 > **Transform your WordPress content strategy with intelligent automation!** 
 > 
 > AUTO-blogger is a professional-grade WordPress automation tool that combines the power of AI content generation, Getty Images integration, and comprehensive SEO optimization to revolutionize your blogging workflow.
+
+## 🚀 Quick Start
+
+```bash
+# Install from PyPI (Recommended)
+pip install auto-blogger
+
+# Launch the application
+autoblog
+```
+
+**That's it!** 🎉 Ready to automate your WordPress content creation.
 
 ## 🎯 What Makes AUTO-blogger Special?
 
@@ -108,7 +121,23 @@ AUTO-blogger/
 
 ## 🚀 Installation
 
-### One-Command Installation (Recommended)
+### 📦 PyPI Installation (Recommended - Easiest)
+
+**Install directly from PyPI:**
+```bash
+pip install auto-blogger
+```
+
+**Launch the application:**
+```bash
+autoblog
+# OR
+auto-blogger
+```
+
+**That's it!** 🎉 The package includes all dependencies and is ready to use.
+
+### 🔧 One-Command Installation (Development Version)
 
 **For macOS and Linux:**
 ```bash
@@ -144,6 +173,15 @@ bash install.sh
 
 After installation, start AUTO-blogger using any of these methods:
 
+**If installed via pip:**
+```bash
+# Available globally after pip installation
+autoblog
+# OR
+auto-blogger
+```
+
+**If installed via script:**
 ```bash
 # System-wide command (if available)
 autoblog
@@ -190,13 +228,22 @@ autoblog
 ## 📖 Usage
 
 ### 1. Launch the Application
+
+**If installed via pip:**
+```bash
+autoblog  # Available globally
+# OR
+auto-blogger  # Alternative command
+```
+
+**If installed via script:**
 ```bash
 autoblog  # System-wide command
 # OR
 ./autoblog  # From installation directory
 ```
 
-The application will automatically check for updates before launching.
+The application will automatically check for updates before launching (script installation only).
 
 ### 2. Configure Authentication
 - Go to the **🔐 Authentication** tab
